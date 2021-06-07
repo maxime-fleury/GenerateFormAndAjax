@@ -1,0 +1,1 @@
+To use : java -jar ./dist/GenForms.jar or just open GenForms.jar with java
